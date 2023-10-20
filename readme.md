@@ -16,4 +16,3 @@ The test problem asks us to train the NER model on HTML extracted data from abou
 https://aclanthology.org/2020.coling-main.36.pdf
 
 
-The owner could've sent us just some mock HTML files with a few lines to parse,  then w'd demonstrate with some straightforward parsing, manually tagging and tokenizing methods with further notation for the above research paper. BUT ! he sent us 600 full-scale URLs and asked us to prepare dataset from 100 of them within two days.
